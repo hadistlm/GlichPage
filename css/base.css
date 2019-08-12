@@ -161,7 +161,7 @@ main {
 }
 
 /* Header */
-.codrops-header {
+.content-header {
 	position: relative;
 	z-index: 100;
 	display: flex;
@@ -173,11 +173,7 @@ main {
 	justify-self: start;
 }
 
-.demo-2 .codrops-header {
-	justify-self: stretch;
-}
-
-.codrops-header__title {
+.content-header__title {
 	font-size: 1em;
 	font-weight: bold;
 	margin: 0;
